@@ -14,3 +14,4 @@ while animal_count < 4:
             all_animals = ""
         all_animals = all_animals + " " + animal_name
         animal_count += 1
+# This program supposedly adds animal names together in a string with some extra functionality
