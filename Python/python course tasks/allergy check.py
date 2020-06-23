@@ -1,0 +1,5 @@
+input_test = input("Enter what you've eaten in the last 24 hours: ")
+print('So it is','dairy'.lower() in input_test.lower(),'that','"' + input_test + '"', 'contains dairy.')
+print('So it is','nuts'.lower() in input_test.lower(),'that','"' + input_test + '"', 'contains nuts.')
+print('So it is','seafood'.lower() in input_test.lower(),'that','"' + input_test + '"', 'contains seafood.')
+print('So it is','chocolate'.lower() in input_test.lower(),'that','"' + input_test + '"', 'contains chocolate.')
