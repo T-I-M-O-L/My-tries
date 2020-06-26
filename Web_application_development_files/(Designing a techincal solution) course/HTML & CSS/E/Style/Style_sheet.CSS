@@ -1,4 +1,8 @@
-p{
-  color: #2620C3;
+body {
+  color: green;
 }
-/* Makes all text on linked HTML files a certain tint of blue
+.ee{
+  color: #2620C3;
+  border: #00ffff;
+}
+/* Makes everything with class ee take certain properties
