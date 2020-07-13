@@ -1,5 +1,4 @@
-var bruh = 0;
-while (bruh <= 100) {
+for(bruh = 0; bruh <= 100; bruh += 2)
+{
   document.write(" " + bruh + " ");
-  bruh = bruh + 2;
 }
