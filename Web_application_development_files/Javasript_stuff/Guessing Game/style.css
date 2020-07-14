@@ -1,0 +1,19 @@
+#Header {
+  color: blue;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 443px;
+}
+body {
+  background-color: #cccccc;
+}
+#nuggets{
+  margin: 0 auto;
+  width: 222px;
+  color: blue;
+}
+#not_nuggets{
+  margin: 0 auto;
+  width: 238px;
+  color: red;
+}
