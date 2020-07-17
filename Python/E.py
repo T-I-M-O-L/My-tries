@@ -1,4 +1,5 @@
-e = 2
-while True:
-    e = e * e
-    print(e)
+if ("||" == "||"):
+    print("true")
+else:
+    print("false")
+input("\n\n\n\n\n press enter to exit...")

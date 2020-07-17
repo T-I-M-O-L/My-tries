@@ -9,11 +9,11 @@ body {
 }
 #nuggets{
   margin: 0 auto;
-  width: 222px;
+  width: 400px;
   color: blue;
 }
 #not_nuggets{
   margin: 0 auto;
-  width: 238px;
+  width: 410px;
   color: red;
 }
